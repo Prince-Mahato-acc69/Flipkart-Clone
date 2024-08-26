@@ -1,2 +1,2 @@
 # Flipkart-Clone
-This is a Netflix clone application built with [Technologies Used:HTML & CSS]. 
+This is a Flipkart clone application built with [Technologies Used:HTML & CSS]. 
